@@ -1,0 +1,28 @@
+body{
+    font-family:'Special Elite', cursive;
+    background-color: aliceblue;
+}
+
+.heading_div{
+    background-color: white;
+    color:lightcoral;
+}
+
+.heading_div img{
+    width:100px;
+}
+
+.main_div{
+    background-color:lightcyan;
+    padding:10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label{
+    background: white;
+    width: 310px;
+    padding:10px;
+    margin-bottom: 0px;
+    box-shadow:5px 5px 18px white;
+}
